@@ -1,0 +1,15 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "J73ZN3G27N.com.ebricks.ordertracker",
+				"paths": [ "/", "/universal-links.html"]
+			},
+            {
+                "appID": "GC6G9ETK3M.com.anypresence.schneider.order-track",
+                "paths": [ "/", "/universal-links.html"]
+            }
+		]
+	}
+}
